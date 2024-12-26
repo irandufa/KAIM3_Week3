@@ -1,0 +1,5 @@
+/Data/
+/Data/MachineLearningRating_v3.txt
+.myvenv
+notebooks/*.csv
+notebooks/*.txt
